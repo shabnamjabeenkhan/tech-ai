@@ -42,7 +42,7 @@ export default function Pricing({ loaderData }: { loaderData: any }) {
           <h1 className="text-center text-4xl font-semibold lg:text-5xl">
             Lifetime access
           </h1>
-          <p className="text-muted-foreground">for one developer</p>
+
         </div>
 
         <div className="mt-8 flex justify-center md:mt-16">
