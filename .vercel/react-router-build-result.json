@@ -127,6 +127,9 @@
       "unstable_subResourceIntegrity": false,
       "unstable_viteEnvironmentApi": false
     },
+    "prerender": [
+      "/"
+    ],
     "routes": {
       "root": {
         "id": "root",
